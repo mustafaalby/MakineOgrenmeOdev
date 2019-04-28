@@ -1,0 +1,21 @@
+﻿Sunulan veri seti,
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4299606/pdf/msb0010-0766.pdf
+
+makalesinde
+ anlatılan çalışmadan üretilmiştir.
+Kalın bağırsak kanserinin iki türü ve sağlıklı insanlardan alınan dışkı örneklerindeki
+bakteri türlerinin miktarları kullanılarak kanser
+ teşhisi yapılıp yapılamayacağı problemi oluşturmaktadır.
+Problemin başarılı çözümü durumunda 
+biyopsi olmaksızın dışkıdan kanser teşhisi koymak mümkün olacaktır.
+
+"colorectal_cancer.csv" 
+dosyasında 134 kişinin dışkısından elde edilen 1455 farklı bakteri türünün 
+miktarları
+her bir satır bir kişi/örnek (ve her sütun bir nakteri türü/feature/öznitelik) 
+olacak şekilde verilmektedir.
+
+"colorectal_cancer.csv"  dosyasında
+ise tek bir sütun ve 134 satır bulunmakta, her satırda
+kanser/küçük hücreli kanser- sağlıklı insan 
+sınıfları 1,2 ve 3 sayılarıyla etiketlenmiştir.
